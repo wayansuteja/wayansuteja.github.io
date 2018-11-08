@@ -472,26 +472,27 @@ nav a:focus {
     display: inline-block;
     background:#333;
     border:3px solid #333;
-	    border-radius: 50%;
+	border-radius: 50%;
     -o-border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
 }
 .callbacks_here a:after{
-   background:#CFDC43;
-    border:3px solid#CFDC43;
+   	background:#CFDC43;
+	border:3px solid#CFDC43;
 }
 .banner-info {
-     margin-top: 12em;
+	margin-top: 12em;
     text-align: center;
 }
 .banner-info h3 {
-      font-size: 3em;
+	font-size: 3em;
     font-weight: 700;
     color: #fff;
-	    margin-bottom: 0.3em;
-		    text-transform: uppercase;
+	margin-bottom: 0.3em;
+	text-transform: uppercase;
+	text-shadow: 0px 2px 5px black
 }
 .banner-info p {
     font-size: 1.1em;
